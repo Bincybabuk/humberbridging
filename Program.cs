@@ -4,7 +4,6 @@ namespace humberbridging
 {
     class Program
     {
-        
         static void Main(string[] args)
         {
 
@@ -29,14 +28,19 @@ namespace humberbridging
                 Console.WriteLine($"sum of array{sum}");
             }
             catch
-                {
+            {
                 Console.WriteLine("wrong input");
-            
-            
-            
-            
+
+
+
+
             }
+           // Program p1 = new Program();
+           // p1.Reverse();
+
 
         }
     }
 }
+    
+
